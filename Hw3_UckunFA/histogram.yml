@@ -1,0 +1,7 @@
+%YAML:1.0
+---
+histogram: !!opencv-matrix
+   rows: 1
+   cols: 3
+   dt: f
+   data: [ 4.01617229e-01, 2.69541770e-01, 3.28840971e-01 ]
