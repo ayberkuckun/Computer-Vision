@@ -1,0 +1,32 @@
+%YAML:1.0
+---
+class_1_mean: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: f
+   data: [ 1.78105876e-01, 2.93933034e-01, 7.65752569e-02,
+       9.40962285e-02, 3.57289702e-01 ]
+class_2_mean: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: f
+   data: [ 2.89564639e-01, 1.51060313e-01, 1.61869660e-01,
+       1.46809801e-01, 2.50695586e-01 ]
+class_3_mean: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: f
+   data: [ 2.37335190e-01, 3.26893002e-01, 1.49632245e-01,
+       1.21584661e-01, 1.64554864e-01 ]
+class_4_mean: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: f
+   data: [ 3.88919562e-01, 6.72174245e-02, 2.39430621e-01,
+       2.16297373e-01, 8.81350040e-02 ]
+class_5_mean: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: f
+   data: [ 1.07068628e-01, 3.04127425e-01, 9.54792723e-02,
+       8.99923146e-02, 4.03332323e-01 ]
