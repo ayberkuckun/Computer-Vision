@@ -1,0 +1,49 @@
+Threshold 1:
+	TP: 0 0 0 0 0 
+	TN: 14 10 10 13 15 
+	FP: 1 5 5 2 0 
+	FN: 0 0 0 0 0 
+Threshold 2:
+	TP: 0 0 0 0 0 
+	TN: 14 9 6 12 15 
+	FP: 1 6 9 3 0 
+	FN: 0 0 0 0 0 
+Threshold 3:
+	TP: 0 0 0 0 0 
+	TN: 10 7 4 10 13 
+	FP: 5 8 11 5 2 
+	FN: 0 0 0 0 0 
+
+Threshold 1:
+	Precision: -nan(ind)
+	Recall: -nan(ind)
+	FPR: 0.17
+Threshold 2:
+	Precision: -nan(ind)
+	Recall: -nan(ind)
+	FPR: 0.25
+Threshold 3:
+	Precision: 0
+	Recall: -nan(ind)
+	FPR: 0.41
+
+Class 1:
+	Precision: 0
+	Recall: -nan(ind)
+	FPR: 0.16
+Class 2:
+	Precision: 0
+	Recall: -nan(ind)
+	FPR: 0.42
+Class 3:
+	Precision: 0
+	Recall: -nan(ind)
+	FPR: 0.56
+Class 4:
+	Precision: 0
+	Recall: -nan(ind)
+	FPR: 0.22
+Class 5:
+	Precision: -nan(ind)
+	Recall: -nan(ind)
+	FPR: 0.044

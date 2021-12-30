@@ -1,0 +1,41 @@
+Threshold 1:
+	TP: 22 28 26 30 24 
+	TN: 116 119 120 120 112 
+	FP: 4 1 0 0 8 
+	FN: 8 2 4 0 6 
+Threshold 2:
+	TP: 26 29 29 30 27 
+	TN: 112 116 118 120 111 
+	FP: 8 4 2 0 9 
+	FN: 4 1 1 0 3 
+Threshold 3:
+	TP: 28 29 29 30 29 
+	TN: 98 108 107 116 103 
+	FP: 22 12 13 4 17 
+	FN: 2 1 1 0 1 
+
+Threshold 1:
+	Precision: 0.91
+	Recall: 0.87
+Threshold 2:
+	Precision: 0.87
+	Recall: 0.94
+Threshold 3:
+	Precision: 0.69
+	Recall: 0.97
+
+Class 1:
+	Precision: 0.72
+	Recall: 0.84
+Class 2:
+	Precision: 0.85
+	Recall: 0.96
+Class 3:
+	Precision: 0.88
+	Recall: 0.93
+Class 4:
+	Precision: 0.96
+	Recall: 1
+Class 5:
+	Precision: 0.71
+	Recall: 0.89
