@@ -1,1 +1,1 @@
-# EE576
+# Computer Vision Course Homeworks and Projects
