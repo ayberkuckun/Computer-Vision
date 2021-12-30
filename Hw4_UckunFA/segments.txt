@@ -1,0 +1,16 @@
+%YAML:1.0
+---
+Number of Generated Segments: 182
+Segment_No_2:
+   Center Point: [ 192, 22 ]
+   Size: 478
+Segment_No_20:
+   Center Point: [ 69, 59 ]
+   Size: 270
+Segment_No_43:
+   Center Point: [ 180, 102 ]
+   Size: 385
+Segment_No_92:
+   Center Point: [ 102, 188 ]
+   Size: 9910
+Total Number of Tresholded Segments: 4
